@@ -23,7 +23,7 @@ function App() {
         <Qualification />
       </>
     );
-  } else if (currentPath === '/project') {
+  } else if (currentPath === 'https://rahulnair.netlify.app/project') {
     value = <Projects />;
   }
 
