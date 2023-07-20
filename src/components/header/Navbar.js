@@ -32,7 +32,7 @@ const Navbar = () => {
             </Link>
           </li> */}
           <li>
-            <a href='/project'>Projects</a>
+            <a href='https://rahulnair.netlify.app/project'>Projects</a>
           </li>
           {/* <li>
             <a href='/certificates'>Certifications</a>{' '}
