@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.backgroundImage {
+  position: relative;
+  width: 100vw;
+  height: 100%;
+  background-image: url('./assets/images/portfoliobgCover.png');
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+.gradientOverlay {
+  width: 100%;
+  height: 100%;
+
+  background: linear-gradient(
+    to top right,
+    rgba(5, 0, 20, 0.786),
+    /* rgba(84, 64, 176, 0.747), */ rgba(28, 6, 124, 0.827)
+  );
+  padding-bottom: 2%;
+}
+/* .secondSection {
+  display: flex;
+  justify-content: space-around;
+  margin: 25px 0;
+}
+.secondSection div {
+  width: 40%;
+}
+.leftSection {
+  width: 34px;
+}
+.rightSection {
+ align-self: center;
+} */

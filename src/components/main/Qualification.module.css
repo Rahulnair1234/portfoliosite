@@ -1,0 +1,31 @@
+.qualificationContainer {
+  width: 60%;
+  padding: 5%;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  color: aliceblue;
+  margin: 10%;
+  margin-bottom: 20%;
+  text-align: left;
+}
+.qualificationContainer span {
+  font-size: 2rem;
+}
+.label {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .qualificationContainer {
+    width: 90%;
+    margin: auto;
+    height: fit-content;
+    margin-bottom: 100%;
+  }
+  .qualificationContainer span {
+    font-size: 1.5rem;
+  }
+  .label {
+    font-size: 1.3rem;
+  }
+}

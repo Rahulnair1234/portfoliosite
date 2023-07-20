@@ -1,0 +1,25 @@
+.leftSection {
+  width: 30%;
+  color: aliceblue;
+  margin: 100px;
+  font-size: 2rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+.colorName {
+  color: #f5a623;
+  font-size: 2.5rem;
+}
+@media (max-width: 768px) {
+  .leftSection {
+    width: 70%;
+    margin: auto;
+    font-size: 1rem;
+    padding-right: 20%;
+    /* justify-content:flex-start; */
+  }
+  .colorName {
+    color: #f5a623;
+    font-size: 1.5rem;
+  }
+}
+

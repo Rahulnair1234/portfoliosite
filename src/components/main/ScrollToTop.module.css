@@ -1,0 +1,38 @@
+.scroll-to-top-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  z-index: 9999;
+}
+
+.scroll-to-top-button.visible {
+  opacity: 1;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+.icon {
+  font-size: 5em; /* Adjust the size as needed */
+  color: #f5a623; /* Replace with the desired color */
+
+}
+@media (max-width: 1250px) {
+  .icon {
+    font-size: 3em; /* Adjust the size as needed */
+    color: #f5a623; /* Replace with the desired color */
+
+  }
+}
+@media (max-width: 768px) {
+  .icon {
+    font-size: 2em; /* Adjust the size as needed */
+    color: #f5a623; /* Replace with the desired color */
+
+  }
+}

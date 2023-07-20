@@ -1,0 +1,22 @@
+.imageContainer {
+  width: fit-content;
+  height: fit-content;
+  border: 5px solid #f5a623; /* Add border */
+  padding: 20px 0 0 20px; /* Add padding for spacing */
+  border-radius: 8px; /* Add border radius for rounded corners */
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.7); /* Add box shadow for a subtle elevation effect */
+  position: inherit;
+}
+
+.imageContainer img {
+  width: 100%; /* Ensure the image fills the container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Inherit border radius from container */
+}
+@media (max-width: 768px) {
+  .imageContainer {
+    width: 70%;
+    margin: auto;
+    /* padding-left: 20%; */
+  }
+}

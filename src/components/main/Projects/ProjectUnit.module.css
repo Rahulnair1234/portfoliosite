@@ -1,0 +1,43 @@
+.projectUnit {
+  display: flex;
+  width: 80%;
+  padding: 3.5%;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  border: 1px solid #f5a623;
+  margin: auto;
+  margin-top: 2%;
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+.unitName {
+  font-size: 1.5rem;
+}
+.unitDescription {
+  word-break: break-word; /* Add this property to enable text wrapping */
+}
+
+.techUsed {
+  word-wrap: break-word;
+}
+.linkTowebsite {
+  word-wrap: break-word;
+}
+.linkTowebsite a {
+  color: aliceblue;
+  text-decoration: none;
+}
+.linkTowebsite a:hover {
+  color: rgb(182, 32, 182);
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .projectUnit {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding: 5%;
+    margin-top: 3%;
+    /* justify-content:space-between; */
+  }
+}

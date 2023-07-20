@@ -1,0 +1,21 @@
+Education
+
+10th Standard: National English High School, Virar, Mumbai
+
+Percentage: 89%
+Description: Embarked on an educational journey at National English High School, where I cultivated a strong foundation of knowledge and acquired valuable academic skills. Achieved an impressive percentage of 89%, showcasing dedication and commitment to academic excellence.
+12th Standard: Viva College
+
+Subject Specialization: Science (PCM - Physics, Chemistry, Mathematics)
+Percentage: 89.68%
+Description: Advanced my educational pursuit in the field of Science, specializing in Physics, Chemistry, and Mathematics (PCM) at Viva College. Embraced a rigorous curriculum, delving into the fascinating realms of scientific principles and mathematical problem-solving. Achieved an exceptional percentage of 89.68%, highlighting a strong grasp of the subject matter and a passion for scientific exploration.
+Bachelor's Degree: Bhavans College, Andheri West, Mumbai
+
+Degree: Bachelor of Computer Science
+CGPA: 9.81
+Description: Pursued a Bachelor's degree in Computer Science from Bhavans College, Andheri West. Throughout this transformative journey, I not only expanded my technical expertise but also honed essential problem-solving and critical thinking abilities. Achieved an outstanding CGPA of 9.81, a testament to perseverance, diligence, and a genuine passion for the subject.
+Relevant Courses and Certifications
+
+Node.js, Express, MongoDB & More: The Complete Bootcamp 2023 by Jonas Schmedtmann (Online course).
+React - The Complete Guide 2023 (incl. React Router & Redux) by Maximilian Schwarzmüller (Online course).
+Crash Course on Python by Google (Online course).

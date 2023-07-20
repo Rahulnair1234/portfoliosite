@@ -1,0 +1,16 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); */
+.container {
+  width: 68vw;
+  height: fit-content;
+  margin: auto;
+  padding: 20px; /* Add padding for spacing */
+  border-radius: 8px; /* Add border radius for rounded corners */
+}
+
+.container p {
+  /* font-family: "Pacifico", cursive; */
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
